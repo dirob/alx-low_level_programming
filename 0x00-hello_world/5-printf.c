@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
 * main -  Hello ,printf
-*
-* return: good 0 (GREAT)
+* return: good 0(GREAT)
 */
 int main(void)
 {
