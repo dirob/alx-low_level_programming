@@ -1,5 +1,10 @@
 #include <stdio.h>i
 /*
+**
+* main - Enter point
+*
+* return Aways 0 (Seccuss)
+*
 */
 int main(void)
 {
