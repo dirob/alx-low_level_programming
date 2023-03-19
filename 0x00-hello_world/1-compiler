@@ -1,12 +1,10 @@
-#include <stdio.h>i
-/*
-**
-* main - Enter point
-*
-* return Aways 0 (Seccuss)
-*
-*/
+#includ <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-
-}
+    return (0);
+}}
